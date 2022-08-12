@@ -1,0 +1,89 @@
+[GERAL]
+##############################################
+#Utilize S para ativar e N para desativar as funções #
+##############################################
+entrada= 2
+entrada_percentual= N
+conta= PRACTICE
+#PRACTICE  = conta Demo / REAL = conta Real
+
+
+##############################################
+#CONFIGURAÇÃO DE PARÂMETROS PARA STOP#
+##############################################
+stop_win = 20
+stop_loss = 50
+trailing_stop = N
+trailing_stop_valor = 25
+payout = 75
+#Payout mínimo para que o robô opere
+opcao = DIGITAL
+#AUTO = Escolhe o melhor payout  / DIGITAL / BINARIA
+
+##############################
+#CONGIFURAÇÃO MARTINGALE#
+##############################
+martingale = S
+#ativa o martingale na próxima vela iginorando o próximo sinal
+mgProxSinal = N
+#martingale no próximo sinal 
+mgPayout = N
+#Este gale realiza o cálculo com o valor necessário para recuperação de acordo com o payout
+valorGale = 2.3
+#multiplicador para os gales normais independente do payout
+niveis = 6
+#quantidades de martingales
+#Não utilizar ambos os martingales ao mesmo tempo
+
+############################
+#CONFIGURAÇÃO DE SOROS#
+############################
+soros = N
+#ativa o soros
+niveis_soros = 1
+#quantidades de soros
+finalizar_em_soros = N
+# finaliza o bot quando consegue realizar completamente a quantidade de soros programada
+
+##################################
+#CONFIGURAÇÃO LISTA DE SINAIS #
+#################################
+listacsv="nome da lista de sinais com extensão"
+
+###############################
+#CONFIGURAÇÃO DOS FILTROS #
+###############################
+
+#filtros noticias analisa notícias 30m antes e depois da entrada / timerzone não funcionam em OTC
+analisarTendencia = S
+#analisa se a operção está de acordo com a média exponêncial dos 10 ultimos períodos somente liberando se a tendencia for a mesma da direção da operação 
+noticias = N
+#ativa o filtro de notícias diretamente do infomoney
+timerzone = N
+#ativa o filtro que evita operações em horários de baixa movimentação
+hitVela = N
+#ativa o filtro de hit de vela, ou seja se as 3 ultimas velas foras no mesmo sentido o bot não pode operar neste caso a próxima entrada seja neste mesmo sentido
+delay_entrada= 2
+#configuração em segundo para o delay de entrada, deve se ajustado de acordo com a conexão de internet do usuário em geral 2 segundos é um parâmetro comum
+
+[CICLOS]
+usar_ciclos = N
+nivel_ciclos = 2
+
+#########################
+#CONFIGURACAO CONTA #
+#########################
+
+[CONTA]
+email = "email do usuário"
+senha = "senha do usuário"
+
+[telegram]
+telegram_token = "token"
+# token para envio de mensagens para bots do telegram
+telegram_id ="telegram id"
+#id do bot do telegram 
+usar_bot = N
+#ativa ou desativa o envio de mensagens para bot do telegram 
+
+
