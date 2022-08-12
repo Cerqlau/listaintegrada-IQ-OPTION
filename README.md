@@ -16,7 +16,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Utilize o arquivo "config.txt" para efetuar inserir os parâmetros necessários para as operações.
 
-*   😲  Não me responsabilizo por operações que tenham resultados negativos ou falha no código este foi desenvolvido para estudos e utilize-o sabedoria. 
+*   😲  Não me responsabilizo por operações que tenham resultados negativos ou falhas no código, este foi desenvolvido para estudos e utilize-o sabedoria. 
 
 ### ⚙️ Executando o programa
 
