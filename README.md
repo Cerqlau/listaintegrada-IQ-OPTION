@@ -25,7 +25,7 @@ M1;AUDUSD;23:12;CALL
 ```
 Evite duplicidade de sinais isto pode gerar erros para execução de martingale e soros 
 
-*   😲  Não me responsabilizo por operações que tenham resultados negativos ou falhas no código, este foi desenvolvido para estudos e utilize-o sabedoria. 
+*   😲  Não me responsabilizo por operações que tenham resultados negativos ou falhas no código, este foi desenvolvido para estudos. Utilize-o com sabedoria. 
 
 ### ⚙️ Executando o programa
 
