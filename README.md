@@ -16,6 +16,15 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Utilize o arquivo "config.txt" para efetuar inserir os parâmetros necessários para as operações.
 
+A lista deve estar em formato ".CSV" separadas por vírgulas conforme abaixo 
+
+```
+
+M1;AUDUSD;23:12;CALL
+
+```
+Evite duplicidade de sinais isto pode gerar erros para execução de martingale e soros 
+
 *   😲  Não me responsabilizo por operações que tenham resultados negativos ou falhas no código, este foi desenvolvido para estudos e utilize-o sabedoria. 
 
 ### ⚙️ Executando o programa
@@ -23,6 +32,7 @@ Utilize o arquivo "config.txt" para efetuar inserir os parâmetros necessários 
 Navegue até a pasta onde se encontra o codigo via CMD e execute o código abaixo 
 
 ```
+
 python main.py
  
 ```
@@ -32,6 +42,7 @@ python main.py
 É possivel efetuar a distribuição para usuários que não possuem pyton instalados em suas máquinas através da biblioteca pyinstaller. 
 
 ```
+
 pip install pyinstaller 
 
 ```
@@ -39,14 +50,16 @@ pip install pyinstaller
 O criar arquivo de especificação para compilação através do código abaixo 
 
 ```
-pyi-makespec main.py --onefile  --name iqoption-catalogador-exe
+
+pyi-makespec main.py --onefile  --name iqoption-lista-exe
 
 ```
 
 A compilação poderá ser fetuada conforme código abaixo
 
 ```
-pyinstaller --clean iqoption-catalogador-exe.spec
+
+pyinstaller --clean iqoption-lista-exe.spec
 
 ```
 
