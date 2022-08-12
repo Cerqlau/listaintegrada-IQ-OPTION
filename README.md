@@ -1,5 +1,5 @@
 # listaintegrada-IQ-OPTION
-Este projeto foi desenvolvido em Python para efetuar entradas a partir de uma lista "CSV" na corretora IQ OPTION conta com diversos tipos de maringale, soros , ciclos, filtros de notícias , timerzone e interação com telegram.Utiliza API não ofical para estabelecer conexão com a IQ OPTION.
+Este projeto foi desenvolvido em Python para efetuar entradas a partir de uma lista "CSV" na corretora IQ OPTION. Conta com diversos tipos de maringale, soros , ciclos, filtros de notícias , timerzone e interação com telegram. Utiliza API não ofical para estabelecer conexão com a corretora.
 
 ## 🚀 Começando
 
