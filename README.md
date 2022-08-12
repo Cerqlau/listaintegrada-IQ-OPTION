@@ -16,7 +16,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Utilize o arquivo "config.txt" para efetuar inserir os parâmetros necessários para as operações.
 
-A lista deve estar em formato ".CSV" separadas por vírgulas conforme abaixo 
+A lista deve estar em formato ".CSV" separadas por  ponto e vírgulas conforme abaixo 
 
 ```
 
