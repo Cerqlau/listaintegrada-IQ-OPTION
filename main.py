@@ -183,7 +183,7 @@ def verifica_conexao(status,erro):
 	if status == True:
 		print('Conta conectada com sucesso')
 	else: 
-		print(f'Erro ao conctar: {erro}')
+		print(f'Erro ao conectar: {erro}')
 		input("")
 		sys.exit()
 	
