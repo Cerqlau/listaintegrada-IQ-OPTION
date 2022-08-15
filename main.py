@@ -179,6 +179,15 @@ def Total_Operacoes(lucro):
 		Trailing_Stop(lucro)
 
 
+def verifica_conexao(status,erro):
+	if status == True:
+		print('Conta conectada com sucesso')
+	else: 
+		print(f'Erro ao conctar: {erro}')
+		input("")
+		sys.exit()
+	
+	
 def banca():
 	global account_type, account_balance, valor_da_banca
 	account_type = config['conta']
@@ -392,7 +401,8 @@ if traderTimerZone == 'S':
 		traderTimerZone = 'N'
 
 API = IQ_Option(email, senha)
-API.connect()
+checkstatus,reason = API.connect()
+verifica_conexao(chekstatus,reason)
 API.change_balance(config['conta'])
 #Chamada do perfil do usuário
 dados=perfil()   # a variável dados recebe todas as informações da função perfil
