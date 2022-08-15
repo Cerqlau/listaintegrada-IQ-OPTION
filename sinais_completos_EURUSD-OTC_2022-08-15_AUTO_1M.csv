@@ -1,0 +1,466 @@
+M1;EURUSD-OTC;00:00;PUT ; - 75% -  ; MG 1 - 88%   ; MG 2 - 75%
+M1;EURUSD-OTC;00:01;PUT ; - 100% -  ; MG 1 - 75%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:11;PUT ; - 75% -  ; MG 1 - 75%   ; MG 2 - 83%
+M1;EURUSD-OTC;00:12;PUT ; - 75% -  ; MG 1 - 88%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:13;PUT ; - 100% -  ; MG 1 - 62%   ; MG 2 - 58%
+M1;EURUSD-OTC;00:21;PUT ; - 100% -  ; MG 1 - 57%   ; MG 2 - 60%
+M1;EURUSD-OTC;00:26;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;00:28;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;00:29;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;00:30;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;00:31;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:34;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;00:35;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;00:36;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:37;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;00:38;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;00:39;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:40;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;00:41;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;00:44;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;00:45;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;00:55;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;00:58;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:00;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;01:07;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:08;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;01:17;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;01:18;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;01:22;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;01:24;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:25;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;01:34;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;01:35;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;01:40;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:41;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:43;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;01:51;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:52;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;01:58;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;01:59;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;02:03;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:04;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:16;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:17;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:28;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;02:39;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:40;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:44;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;02:57;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;03:11;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;03:12;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;03:13;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;03:15;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;03:18;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;03:26;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;03:30;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;03:31;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;03:40;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;03:41;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;03:46;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;03:47;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;03:49;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;03:50;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;03:58;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;04:02;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;04:03;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;04:23;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;04:24;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;04:27;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;04:28;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;04:29;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;04:36;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;04:37;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;04:38;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;04:46;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;04:53;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;04:54;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;04:58;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:02;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:03;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:11;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;05:12;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:13;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:21;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 44%
+M1;EURUSD-OTC;05:22;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:25;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:31;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:36;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 44%
+M1;EURUSD-OTC;05:40;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:41;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:44;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;05:45;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:48;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;05:49;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;05:51;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:56;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;05:57;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;06:04;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:06;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:07;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;06:09;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;06:10;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:11;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;06:22;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;06:25;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;06:27;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:28;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;06:30;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:31;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:33;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;06:34;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;06:36;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;06:37;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:38;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:40;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;06:42;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;06:47;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:48;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:51;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 100%
+M1;EURUSD-OTC;06:52;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;06:53;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;06:58;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:03;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;07:07;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:08;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:10;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;07:11;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;07:12;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:14;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;07:15;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;07:17;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:21;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:22;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:28;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:29;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:37;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:38;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;07:42;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;07:43;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:52;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:53;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;07:56;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;08:01;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;08:06;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:11;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:12;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;08:13;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;08:14;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:23;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;08:25;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;08:27;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:28;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;08:29;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:30;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:35;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:45;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;08:46;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;08:48;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:56;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;08:57;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;09:04;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;09:09;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:10;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;09:21;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:30;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:36;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;09:37;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;09:38;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:39;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:44;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;09:45;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;09:47;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:48;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:50;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;09:51;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;09:54;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;09:55;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;09:56;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;09:57;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;09:58;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;09:59;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;10:00;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;10:01;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;10:04;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;10:08;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:09;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:16;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:17;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:24;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;10:28;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;10:38;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:41;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;10:47;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;10:48;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;10:49;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;10:56;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:02;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:03;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;11:04;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:05;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;11:06;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;11:07;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;11:08;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;11:10;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:16;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:17;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;11:19;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:23;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:24;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;11:30;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;11:32;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:36;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:37;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:42;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;11:43;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:44;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;11:45;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;11:46;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;11:54;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;12:02;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:03;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:05;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:10;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;12:11;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:17;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:18;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:19;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:26;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;12:27;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;12:28;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:29;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:30;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:31;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;12:32;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:34;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:35;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:40;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:41;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:43;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;12:47;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;12:48;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;12:51;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;12:52;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;12:53;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;12:54;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:55;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;12:56;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;12:57;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:00;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 100%
+M1;EURUSD-OTC;13:01;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:02;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;13:03;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;13:16;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:18;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:19;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;13:21;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;13:31;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:32;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;13:35;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;13:36;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:39;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:40;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:41;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:45;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:46;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:48;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:50;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:56;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;13:57;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;13:59;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:00;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;14:03;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:04;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:08;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;14:09;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:14;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;14:15;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:16;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:20;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:22;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:23;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:24;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;14:25;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;14:26;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;14:29;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;14:30;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 22%
+M1;EURUSD-OTC;14:31;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:47;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;14:48;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:50;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:53;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;14:54;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:03;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:04;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:07;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:08;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:12;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:13;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:14;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:19;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:20;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:23;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;15:24;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:26;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:27;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:29;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:30;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;15:31;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;15:32;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;15:33;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;15:35;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;15:51;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;15:52;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;15:55;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 44%
+M1;EURUSD-OTC;16:03;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:04;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;16:05;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;16:06;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:13;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:14;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;16:20;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:25;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;16:26;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;16:28;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:30;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;16:37;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;16:38;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;16:40;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;16:41;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:48;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;16:50;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;16:51;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;16:53;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;16:54;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;17:01;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;17:02;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;17:03;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;17:04;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;17:11;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:15;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;17:16;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:21;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;17:22;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;17:23;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:27;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:31;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:42;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:53;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;17:54;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:57;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;17:59;PUT ; - 67% -  ; MG 1 - 80%   ; MG 2 - 75%
+M1;EURUSD-OTC;18:00;PUT ; - 100% -  ; MG 1 - 80%   ; MG 2 - 62%
+M1;EURUSD-OTC;18:03;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;18:06;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;18:07;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;18:13;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 100%
+M1;EURUSD-OTC;18:14;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;18:15;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;18:18;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;18:21;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;18:30;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;18:32;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;18:33;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;18:38;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;18:46;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;18:53;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;18:54;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;18:55;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 67%
+M1;EURUSD-OTC;18:57;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;18:58;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;18:59;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;19:05;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;19:10;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;19:11;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;19:16;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;19:25;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;19:32;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;19:34;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;19:38;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;19:39;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;19:40;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;19:44;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 22%
+M1;EURUSD-OTC;19:45;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;19:49;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;19:50;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;19:54;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;19:55;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;19:56;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:04;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;20:08;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:09;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;20:14;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:24;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;20:39;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:46;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;20:47;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:48;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:49;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:50;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;20:51;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;20:52;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;20:56;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;20:57;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;20:59;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:00;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:05;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;21:07;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;21:10;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:11;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;21:12;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:13;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;21:14;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:15;CALL; - 100% -  ; MG 1 - 50%   ; MG 2 - 33%
+M1;EURUSD-OTC;21:16;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 89%
+M1;EURUSD-OTC;21:17;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;21:18;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;21:19;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:21;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;21:24;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:25;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:27;PUT ; - 100% -  ; MG 1 - 33%   ; MG 2 - 33%
+M1;EURUSD-OTC;21:28;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:30;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;21:32;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:35;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:36;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:40;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:41;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;21:42;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 56%
+M1;EURUSD-OTC;21:44;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:49;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;21:50;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:51;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:58;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;21:59;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 44%
+M1;EURUSD-OTC;22:00;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;22:01;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;22:04;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 89%
+M1;EURUSD-OTC;22:05;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;22:06;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;22:11;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;22:19;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;22:20;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;22:24;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;22:29;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;22:30;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;22:36;PUT ; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;22:37;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;22:42;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;22:43;CALL; - 100% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;22:54;PUT ; - 67% -  ; MG 1 - 83%   ; MG 2 - 78%
+M1;EURUSD-OTC;22:55;PUT ; - 100% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:00;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;23:06;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:09;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 44%
+M1;EURUSD-OTC;23:11;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:12;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 78%
+M1;EURUSD-OTC;23:14;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:20;CALL; - 67% -  ; MG 1 - 83%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:21;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
+M1;EURUSD-OTC;23:33;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;23:43;CALL; - 100% -  ; MG 1 - 100%   ; MG 2 - 78%
+M1;EURUSD-OTC;23:44;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;23:48;PUT ; - 100% -  ; MG 1 - 50%   ; MG 2 - 56%
+M1;EURUSD-OTC;23:53;PUT ; - 100% -  ; MG 1 - 67%   ; MG 2 - 56%
+M1;EURUSD-OTC;23:56;CALL; - 100% -  ; MG 1 - 67%   ; MG 2 - 67%
