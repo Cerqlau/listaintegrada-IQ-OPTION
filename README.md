@@ -80,7 +80,7 @@ Instagram : laurorcerqueira
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁 
+## 🎁 Agradecimentos
 
 * Conte a outras pessoas sobre este projeto 📢
 * Convide alguém da equipe para uma cerveja 🍺 
